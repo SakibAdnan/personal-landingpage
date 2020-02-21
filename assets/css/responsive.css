@@ -43,6 +43,9 @@
     .hero-content {
         margin-top: 0;
     }
+    h1.name {
+        font-size: 20px;
+    }
     
     .service-boox {
         width: 90%;
