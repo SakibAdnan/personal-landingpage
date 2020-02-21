@@ -1,0 +1,86 @@
+/* Laptop Device :1600 */
+@media (min-width: 1600px) and (max-width: 2300px){
+  
+    
+}
+
+/* Laptop Device :1400 */
+@media (min-width: 1400px) and (max-width: 1600px){
+   
+  
+}
+
+/* Laptop Device :1200 */
+@media (min-width: 1200px) and (max-width: 1399px){
+  
+}
+
+/* Normal desktop :992px */
+@media (min-width: 992px) and (max-width: 1199px) {   
+    
+}
+
+/* Tablet desktop :768px */
+@media (min-width: 768px) and (max-width: 991px) {    
+    
+} 
+
+/* small mobile :320px */
+@media (max-width: 767px) {
+    section {
+        padding-top: 30px;
+    }
+    
+    .half-width {
+        width: 90%;
+        float: none;
+        text-align: center;
+        margin-bottom: 12px;
+    }
+    
+    .half-width img {width: 60%;margin-left: 19%;}
+    
+    .hero-content {
+        margin-top: 0;
+    }
+    
+    .service-boox {
+        width: 90%;
+        float: none;
+    }
+    
+    .work-image-box {
+        width: 90%;
+        float: none;
+    }
+    
+    .single-testiminial {
+        width: 90%;
+        float: none;
+    }
+    
+    h2.section-title {
+        font-size: 25px;
+        margin-top: 0;
+        margin-bottom: 30px;
+    }
+    
+    body {
+        font-size: 15px;
+        line-height: 1.5;
+    }
+} 
+/* Large Mobile :480px */
+@media only screen and (min-width: 480px) and (max-width: 767px) {
+
+    
+}
+
+
+
+
+
+
+
+
+
