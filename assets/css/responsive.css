@@ -37,9 +37,13 @@
         text-align: center;
         margin-bottom: 12px;
     }
-    
-    .half-width img {width: 60%;margin-left: 19%;}
-    
+    .half-width img {
+        width: 60%;
+        margin-left: 25%;}
+    .about-area .half-width img{
+        width: 60%;
+        margin-left: 5%;
+    }
     .hero-content {
         margin-top: 0;
     }
